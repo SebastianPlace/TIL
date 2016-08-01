@@ -1,3 +1,3 @@
 #Configuration
 
-Global git config in ~/.gitconfig
+Global git config in **~/.gitconfig**
