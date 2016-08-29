@@ -7,7 +7,7 @@ In this example the `navigate` property on the component is being set the `someA
 {{my-component item=model navigate=(action 'someActionOnController')}}
 ```
 
-Calling it from `components/my-component`:
+Calling it from the `components/my-component`:
 
 ```
 this.get('navigate')('back', item);
