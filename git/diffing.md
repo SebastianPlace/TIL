@@ -29,3 +29,8 @@ Show all changes (staged and unstaged):
 ```
 git diff HEAD
 ```
+
+Show changes of last commit:
+```
+git show
+```
